@@ -1,0 +1,530 @@
+[
+  {
+    "url": "https://github.com/autowarefoundation/autoware/blob/497c9c4a0b276db3e6722efeca95ae0bb6a20c31/.clang-tidy#L122",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/blob/497c9c4a0b276db3e6722efeca95ae0bb6a20c31/ansible/roles/artifacts/tasks/main.yaml#L303",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/issues/3424",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/issues/5174",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/issues/4538",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/issues/3222",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/issues/3999",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/issues/4557",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/pull/5117",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/pull/5045",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/pull/1815",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/pull/1774",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/pull/1949",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/5409",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/maxime-clem",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/4612",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/ohsawa1204",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/5313",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/xmfcx",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/5246",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/cavadibrahimli1",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/5113",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/mitsudome-r",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/5239",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/oguzkaganozt",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/5369",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/messi49",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/5099",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/5179",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/5041",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/masierralomby",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/5273",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/Narendarselva",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/5145",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/oguzkaganozt",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/5119",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/5098",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/5068",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/4663",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/CristianGariboldi",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/4586",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/chang330",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/4509",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/berkaysahinaskar",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/4075",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/StepTurtle",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/4661",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/5032",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/yukkysaito",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/4201",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/yuasabe",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/4151",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/KhalilSelyan",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/4025",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/4059",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/drwnz",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/3889",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/4015",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/TUMGEKA",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/3906",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/4134",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/meliketanrikulu",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/3844",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/3194",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/xmfcx",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/3878",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/KYabuuchi",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/3818",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/3574",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/Tanishq30052002",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/3524",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/TakaHoribe",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/2812",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/kminoda",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/3421",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/ahmeddesokyebrahim",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/3442",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/drwnz",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/3469",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/2950",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/3260",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/kaspermeck-arm",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/2651",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/3288",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/2636",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/2657",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/2816",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/3325",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/2697",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/2503",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/issues/4646",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/issues/3222",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/issues/3466",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/pull/4673",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/4661",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/youtalk",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/5033",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/yukkysaito",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/2531",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/scepter914",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/4902",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/ike-kazu",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/5073",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/hzkkk1997",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/4653",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/mitsudome-r",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/4518",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/xmfcx",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/4967",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autonomtech",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/3759",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/kminoda",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/3711",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/3818",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/xmfcx",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/3662",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/davidc0619",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/3574",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/Tanishq30052002",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/3444",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/mitsudome-r",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/3097",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/satoshi-ota",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/3325",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/kaspermeck-arm",
+    "title": ""
+  },
+  {
+    "url": "https://github.com/autowarefoundation/autoware/discussions/2575",
+    "title": ""
+  }
+]
